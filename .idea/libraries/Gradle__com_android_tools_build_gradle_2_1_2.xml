@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.tools.build:gradle:2.1.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Cannot resolve external dependency com.android.tools.build:gradle:2.1.2 because no repositories are defined." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

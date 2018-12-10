@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/desktop.iml" group="desktop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/desktop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/desktop_main.iml" group="desktop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/desktop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/desktop_test.iml" group="desktop" />
+      <module fileurl="file://$PROJECT_DIR$/khin-plugin.iml" filepath="$PROJECT_DIR$/khin-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/khin-plugin_buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/khin-plugin_buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/khin-plugin_buildSrc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/khin-plugin_buildSrc_main.iml" group="khin-plugin_buildSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/khin-plugin_buildSrc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/khin-plugin_buildSrc_test.iml" group="khin-plugin_buildSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/khin-plugin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/khin-plugin_main.iml" group="khin-plugin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/khin-plugin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/khin-plugin_test.iml" group="khin-plugin" />
+    </modules>
+  </component>
+</project>
